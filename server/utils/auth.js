@@ -38,4 +38,3 @@ module.exports = {
   },
 };
 
-module.exports = { signToken };
